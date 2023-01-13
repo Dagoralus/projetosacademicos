@@ -7,52 +7,31 @@
     <title>Loja de Informática</title>
 </head>
 <body>
-    
     <h1>Produtos recomendados</h1>
     <hr>
-    <h2>
-        Informática
-    </h2>
+    <h2> Informática</h2>
     <hr>
     <div>
-        <h3>
-            <span>Notebook Lenovo Ideapad S145</span> AMD Ryzen 5 8GB 256GB SSD 15,6" 1366x768px W10 Prateado.
-        </h3>
-
+        <h3>Notebook Lenovo Ideapad S145 AMD Ryzen 5 8GB 256GB SSD 15,6" 1366x768px W10 Prateado.</h3>
         <img src="assets/computador.jpg" alt="Notebook Lenovo Ideapad S145" title="Notebook Lenovo Ideapad S145" height="180" width="320" >
-        
-        <p>
-            O que você precisa saber sobre este produto: <br> Ele vem equipado com um <span> Processador AMD Ryzen 5</span>, <span>8GB de RAM</span>, <span>tela LED de 15.6" </span>com a <span>resolução de 1366x768 px</span>, é <span>anti-reflexo</span>, vem equipado também com a placa de vídeo <span>AMD Radeon RX Vega 8</span>, tem conexão Wi-Fi e bluetooth, possui 3 portas USB e 1 porta HDMI, inclui um <span>leitor de cartão de memória</span>, possui pad numérico, modo de som Dolby Audio, Stereo e a duração da bateria depende do uso que se dê ao produto..
-        </p>
-
-        <p><span>3.096,00 R$</span></p>
-
-        <a href="https://www.mercadolivre.com.br/notebook-lenovo-ideapad-s145-prateada-156-amd-ryzen-5-3500u-8gb-de-ram-256gb-ssd-amd-radeon-rx-vega-8-1366x768px-windows-10/p/MLB18499971?product_trigger_id=MLB18619234&pdp_filters=category%3AMLB1648&applied_product_filters=MLB18619234&quantity=1" target="_blank" rel="noopener noreferrer"> Comprar
-        </a>
-
+        <p>O que você precisa saber sobre este produto: <br> Ele vem equipado com um  Processador AMD Ryzen 5, 8GB de RAM, tela LED de 15.6" com a resolução de 1366x768 px, é anti-reflexo, vem equipado também com a placa de vídeo AMD Radeon RX Vega 8, tem conexão Wi-Fi e bluetooth, possui 3 portas USB e 1 porta HDMI, inclui um leitor de cartão de memória, possui pad numérico, modo de som Dolby Audio, Stereo e a duração da bateria depende do uso que se dê ao produto..</p>
+        <p>R$ 3.096,00</p>
+        <a href="https://www.mercadolivre.com.br/notebook-lenovo-ideapad-s145-prateada-156-amd-ryzen-5-3500u-8gb-de-ram-256gb-ssd-amd-radeon-rx-vega-8-1366x768px-windows-10/p/MLB18499971?product_trigger_id=MLB18619234&pdp_filters=category%3AMLB1648&applied_product_filters=MLB18619234&quantity=1" target="_blank" rel="noopener noreferrer"> Comprar </a>
         <hr>
     </div>
-
     <div>
-        <h3>Computador EasyPC All com Microsoft Windows 10 e pacote Office, completo em todos os aspectos!</h3>
-        
+         <h3>Computador EasyPC All com Microsoft Windows 10 e pacote Office, completo em todos os aspectos!</h3>
         <img src="assets/desktop.jpg" alt="EasyPC Windows 10 com office 365 " height="200" width="320">
-        <p>Processador:
-        <span>Intel Core i7 3.80Ghz</span>, 4 núcleos e 8 threads, <span>8GB de RAM</span>, <span>HD 1TB</span>, <span>Micro ATX compacto com fonte PX300 bivolt</span> com 2 conexões USB e 2 conexões de áudio, Intel H Series, <span>vídeo integrado</span>, Saídas <span>HDMI</span> e <span>VGA</span> HD de alta definição, audio 5.1 canais com 3 saídas traseiras e 2 frontais, LAN Gigabit 10/100/1000, 4 conexões USB traseiras e 2 frontais, 2 conexões PS2 <span>Monitor 21.5" Resolução: 1920x1080</span> antireflexo e <span>Suporte VESA Bivolt</span>.
-            <br><span>Mouse USB e teclado USB padrão ABNT2 inclusos</span>.</p>
-
-            <p><span>2 449,99 R$</span></p>
-
-            <a href="https://produto.mercadolivre.com.br/MLB-2750608363-computador-completo-intel-i7-8gb-hd-1tb-windows-10-easypc-_JM#position=10&search_layout=grid&type=item&tracking_id=9c653486-45ce-4e2c-b515-372fc3c889a7" target="_blank" rel="noopener noreferrer">Comprar </a>
+        <p>Processador:Intel Core i7 3.80Ghz, 4 núcleos e 8 threads, 8GB de RAM, HD 1TB, Micro ATX compacto com fonte PX300 bivolt com 2 conexões USB e 2 conexões de áudio, Intel H Series, vídeo integrado, Saídas HDMI e VGA HD de alta definição, audio 5.1 canais com 3 saídas traseiras e 2 frontais, LAN Gigabit 10/100/1000, 4 conexões USB traseiras e 2 frontais, 2 conexões PS2 Monitor 21.5" Resolução: 1920x1080 antireflexo eSuporte VESA Bivolt.
+        <br>Mouse USB e teclado USB padrão ABNT2 inclusos.</p>
+        <p>R$ 2 449,99</p>
+        <a href="https://produto.mercadolivre.com.br/MLB-2750608363-computador-completo-intel-i7-8gb-hd-1tb-windows-10-easypc-_JM#position=10&search_layout=grid&type=item&tracking_id=9c653486-45ce-4e2c-b515-372fc3c889a7" target="_blank" rel="noopener noreferrer">Comprar </a>
     </div>
-<hr>
+        <hr>
     <div>
-        <br> Copirights: Este modelo de site foi criado por mim para estudo no curso da DevMedia. Sem uso comercial. <br>
-        <br> 
+        <br>Copirights: Este modelo de site foi criado por mim para estudo no curso da DevMedia. Sem uso comercial.<br> 
         <a href="https://www.devmedia.com.br" title="Devmedia" >
-        <img src="assets/logo-devmedia.png" alt="DevMedia" height="40" width="40" >
-                </a>
+        <img src="assets/logo-devmedia.png" alt="DevMedia" height="40" width="40" ></a>
     </div>
-
 </body>
 </html>
