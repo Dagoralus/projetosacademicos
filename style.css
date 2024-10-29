@@ -12,11 +12,8 @@ body {
     background-color: #252630;
     text-align: center;
     color: #ffffff;
-
      
 }
-
-
 
 .titulodes {
     
@@ -28,10 +25,9 @@ body {
     color: #ffffff;
 }
 
-
 .apresentacao {
 
-margin: 10%;
+margin: 10% 15%;
 display:flex;
 align-items: center;
 justify-content: space-between;
@@ -40,24 +36,23 @@ justify-content: space-between;
 
 .aprconteudo {
 
+    display:flex;
+    flex-direction: column;
     width: 615px;
-    
+    gap: 20px;
 }
 
 .att {
 
    font-size: 36px;
    font-family: "Krona One", sans-serif;
-   
-    
+       
 }
 
 .app {
 
     font-size: 24px;
     font-family: "Montserrat", sans-serif;
-    
-    
 
 }
 
@@ -75,13 +70,10 @@ div {
     font-size: 24px;
     font-weight: 600px;
     background-color: aqua;
-    border-radius: 16px;
-    width: 280px;
+    border-radius: 20px;
+    width: 200px;
     text-align: center;
     padding: 21.5px 0px 21.5px;
     text-decoration: none;
 
-
-
 }
-
